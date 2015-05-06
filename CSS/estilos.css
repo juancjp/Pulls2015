@@ -1,6 +1,5 @@
 body
-{
-	background: #EFEFEF;
+{	background: #efefef;
 	color: #4C4C4C;
 	font-family: Arial;
 	font-size: 16px;
@@ -8,6 +7,18 @@ body
 }
 header
 {
-	background: #434343;
+	background: #434343; 
 	padding: 0.5em;
+	color: white;
+}
+header h1{
+	font-size: 18px;
+	font-weight: normal;
+}
+header #logo img{
+	width: 52px;	 
+}
+
+a{
+	color: #22BCE0;
 }
